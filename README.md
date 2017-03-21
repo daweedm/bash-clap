@@ -13,7 +13,7 @@ brew install sox
 ```
 ##### Then
 ```bash
-git clone https://github.com/daweedm/bash-clap && cd bash-clap && chmod+x bash-clap.sh
+git clone https://github.com/daweedm/bash-clap && cd bash-clap && chmod +x bash-clap.sh
 ```
 
 ## Configuration
